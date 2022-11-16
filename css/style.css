@@ -31,3 +31,21 @@ li{
     
 
 }
+
+#first img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#last img{
+    padding-top: 20px;
+    float:left;
+    
+}
+
+p{
+    width:35%;
+    float:left;
+    margin-left:60px;
+    margin-top: 20px;
+}
